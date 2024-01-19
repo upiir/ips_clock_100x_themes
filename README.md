@@ -11,6 +11,8 @@ Links from the video:
 - Elekstube IPS Clock: https://s.click.aliexpress.com/e/_DClHlKv
 - Photopea: https://www.photopea.com/
 - Adobe Firefly: https://firefly.adobe.com/
+- Another Theme for Clocks: https://github.com/upiir/rgb_glow_tube_clock
+- Yet another theme(s) for Clocks: https://github.com/upiir/elekstube_ips_custom_theme
 
 Similar YouTube videos:
 - Nixie Theme for Clocks: https://youtu.be/Q-yf9hQRpU4
