@@ -22,6 +22,9 @@ Similar YouTube videos:
 - Arduino Wood Clock - https://youtu.be/50bVXHYW_9Q
 
 
+This video is sponsored by PCBway. By using the link, you can get 10 PCBs for free, only paying for shipping, and at the same time, you will support this channel. _Thank you, PCBway!_ https://www.pcbway.com/setinvite.aspx?inviteid=572577
+
+
 ![THUMB_100_themes_in_1_hour](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/3c4748f6-eaae-47d6-8866-086df3aad2b2)
 
 
