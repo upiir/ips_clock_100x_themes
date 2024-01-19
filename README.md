@@ -21,6 +21,27 @@ Similar YouTube videos:
 ![THUMB_100_themes_in_1_hour](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/3c4748f6-eaae-47d6-8866-086df3aad2b2)
 
 
+Screenshots from the video:
+
+![CAMTASIA_nixie_clock_ai_themes (Time 0_00_06;04)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/9377002c-32f8-4fdc-b55b-e77324ec5765)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_00_08;19)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/e2df0e65-4b3f-474b-9962-d6a3a485f05d)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_00_27;11)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/87ba6368-59f4-4596-94d6-8b02fc954d4b)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_01_13;07)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/ea6e304d-1df5-4605-91da-88a810e0ae5c)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_01_32;05)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/a5395987-b158-4964-b6eb-b1fec792dfa0)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_01_52;26)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/107fef04-58dc-4e62-a1f6-61926718c68e)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_02_03;28)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/6ce6b598-6229-412d-a62a-75ea7bcab156)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_05_30;05)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/81cd3459-292f-4aa9-919e-e5b258c7bbbd)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_06_03;21)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/f0d9612d-5f15-41e9-a9cc-c941f5097a3c)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_06_10;25)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/8b1b6945-59e9-46a4-a435-b5dffad5d033)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_06_38;09)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/7a01aeaa-5c61-4942-9ad2-a6073fe11309)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_06_56;14)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/66af6b4a-cb2e-4940-b48d-bec18f28fbf6)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_07_36;18)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/da2b1737-0b53-418c-b5a6-4262109f37e6)
+![CAMTASIA_nixie_clock_ai_themes (Time 0_10_30;23)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/aad2ea0b-e897-4faf-9634-3403adea3048)
+
+
+
+All 100 Themes:
+
 
 
 ![preview_01](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/f591c91e-d429-4e79-99e9-ba8a420dac62)
