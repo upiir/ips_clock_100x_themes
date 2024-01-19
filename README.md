@@ -3,7 +3,22 @@
 
 
 
+Links from the video:
+- PCBWay - https://www.pcbway.com/setinvite.aspx?inviteid=572577
+- RGB Glow Tube Clock: https://pcbway.com/s/71VadB
+- Elekstube IPS Clock: https://s.click.aliexpress.com/e/_DClHlKv
+- Photopea: https://www.photopea.com/
+- Adobe Firefly: https://firefly.adobe.com/
 
+Similar YouTube videos:
+- Nixie Theme for Clocks: https://youtu.be/Q-yf9hQRpU4
+- Nixie Tube Clock Without Nixie Tubes - https://youtu.be/cbU3y4pe4FQ
+- Arduino OLED Clock Project - https://youtu.be/srgsBWHSNSQ
+- Custom Clocks for Smart Watches - https://youtu.be/4M407AYPeH0
+- Arduino Wood Clock - https://youtu.be/50bVXHYW_9Q
+
+
+![THUMB_100_themes_in_1_hour](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/3c4748f6-eaae-47d6-8866-086df3aad2b2)
 
 
 
