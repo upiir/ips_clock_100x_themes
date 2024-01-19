@@ -28,6 +28,17 @@ This video is sponsored by PCBway. By using the link, you can get 10 PCBs for fr
 ![THUMB_100_themes_in_1_hour](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/3c4748f6-eaae-47d6-8866-086df3aad2b2)
 
 
+Small Animations:
+
+
+![100_themes_for_clocks_faster](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/c43be2b6-282e-4e14-b6b6-20a180990ecc)
+
+
+![100_themes_for_clocks_white](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/7a173d2e-3313-462e-bc72-dd615f5b6076)
+
+
+
+
 Screenshots from the video:
 
 ![CAMTASIA_nixie_clock_ai_themes (Time 0_00_06;04)](https://github.com/upiir/ips_clock_100x_themes/assets/117754156/9377002c-32f8-4fdc-b55b-e77324ec5765)
