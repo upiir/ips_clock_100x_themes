@@ -2,6 +2,8 @@
 100 Themes for IPS tube/RGB clock
 
 
+**YOUTUBE VIDEO: https://youtu.be/F6b85vHGwGI**
+
 
 Links from the video:
 - PCBWay - https://www.pcbway.com/setinvite.aspx?inviteid=572577
